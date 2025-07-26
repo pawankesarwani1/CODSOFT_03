@@ -1,4 +1,5 @@
 # CODSOFT_03
+resaurant menu with ui ux design
 # 🍽️ Restaurant Menu UI/UX Design
 
 This project features a sleek and modern **Restaurant Menu UI** created in Figma. It’s designed to enhance the dining experience with a clean layout, intuitive navigation, and visually appealing food sections. Perfect for digital or printed menus in cafes, restaurants, or food delivery apps.
